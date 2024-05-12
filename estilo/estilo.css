@@ -1,0 +1,20 @@
+body{
+    background: #000; 
+    margin: auto;
+}
+h1{
+    color: rgb(0, 255, 42);
+}
+h3{
+    color: rgb(0, 162, 255);
+}
+
+img{
+    border-radius: 10%;
+    box-shadow: 2px 2px 50px rgb(247, 0, 255);
+}
+picture{
+    align-items: center;
+    display: flex;
+    align-content: center;
+}
